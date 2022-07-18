@@ -1,0 +1,16 @@
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.exe
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.deps.json
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.runtimeconfig.json
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.runtimeconfig.dev.json
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.dll
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\net5.0\CalculadoraCSharp.pdb
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.dll
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\refint\CalculadoraCSharp.dll
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.pdb
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\CalculadoraCSharp.genruntimeconfig.cache
+C:\Users\analo\Documents\CalculadoraCSharp\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\net5.0\ref\CalculadoraCSharp.dll
